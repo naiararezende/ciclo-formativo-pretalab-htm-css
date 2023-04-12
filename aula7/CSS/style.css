@@ -1,0 +1,37 @@
+body{
+    background-color: azure;
+}
+
+.meuH1{
+    color: brown;
+}
+
+.meutexto{
+    color:black;
+}
+
+#meuH1unico{
+    color: rgba(255, 208, 1, 0.87);
+}
+
+#corpo{
+    background-color: brown;
+    color: brown;
+    margin-top: 40px;
+    padding: 20px;
+    width: 800px;
+    height: 400px;
+
+}
+
+.sessao_conteudo{
+    padding: 10%;
+    text-align: center;
+    width: 50%;
+    height: 70px;
+    background-color: aliceblue;
+}
+
+p{
+font-family: 'Gill Sans'
+}
